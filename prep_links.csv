@@ -1,0 +1,21 @@
+JobRole,ResourceName1,ResourceLink1,ResourceName2,ResourceLink2,ResourceName3,ResourceLink3
+Data Analyst,Kaggle (Datasets & Notebooks),https://www.kaggle.com,Coursera (Google Data Analytics),https://www.coursera.org/google-data-analytics,Power BI Learning Path,https://learn.microsoft.com/en-us/power-bi/
+Machine Learning Engineer,Coursera (ML by Andrew Ng),https://www.coursera.org/learn/machine-learning,TensorFlow Tutorials,https://www.tensorflow.org/tutorials,Scikit-learn Docs,https://scikit-learn.org/stable/
+Data Scientist,Kaggle (Competitions),https://www.kaggle.com/competitions,freeCodeCamp (Data Analysis w/ Python),https://www.freecodecamp.org/learn/data-analysis-with-python/,deeplearning.ai (Courses),https://www.deeplearning.ai/
+Frontend Developer,MDN Web Docs,https://developer.mozilla.org/en-US/,freeCodeCamp (Responsive Web Design),https://www.freecodecamp.org/learn/responsive-web-design/,React Docs (Official),https://react.dev/
+Backend Developer,Node.js Docs,https://nodejs.org/en/docs,Express.js Guides,https://expressjs.com/,MongoDB University,https://learn.mongodb.com/
+Full Stack Developer,The Odin Project,https://www.theodinproject.com,freeCodeCamp (Full Stack),https://www.freecodecamp.org/,MDN (Learn Server-side),https://developer.mozilla.org/en-US/docs/Learn/Server-side
+DevOps Engineer,Docker (Get Started),https://docs.docker.com/get-started/,Kubernetes (Tutorials),https://kubernetes.io/docs/tutorials/,AWS (DevOps Learning Path),https://aws.amazon.com/devops/
+Cloud Engineer,AWS (Skill Builder),https://explore.skillbuilder.aws/,Google Cloud (Skills Boost),https://www.cloudskillsboost.google/,Microsoft Azure (Learn),https://learn.microsoft.com/en-us/azure/
+AI Engineer,Hugging Face (NLP Course),https://huggingface.co/course,PyTorch (Tutorials),https://pytorch.org/tutorials,fast.ai (Practical Deep Learning),https://www.fast.ai/
+Product Manager,Product School (Blog),https://productschool.com/blog/,Mind the Product,https://www.mindtheproduct.com,Reforge (Product Programs),https://www.reforge.com/
+Cybersecurity Analyst,CompTIA (Security+),https://www.comptia.org/certifications/security,TryHackMe (Gamified Learning),https://tryhackme.com,OWASP (Top 10),https://owasp.org/www-project-top-ten/
+Business Analyst,IIBA (Business Analysis Body),https://www.iiba.org,Coursera (Business Analysis),https://www.coursera.org/browse/business/business-analysis,Asana (Guide to BA),https://asana.com/resources/business-analyst
+Data Engineer,Apache Spark (Docs),https://spark.apache.org/docs/latest/,Airflow (Docs),https://airflow.apache.org/docs/,Coursera (Google Data Engineering),https://www.coursera.org/google-data-engineering
+Project Manager,PMI (Project Mgmt Institute),https://www.pmi.org,Coursera (Google Project Mgmt),https://www.coursera.org/google-project-management,Atlassian (Agile Coach),https://www.atlassian.com/agile
+UI/UX Designer,Nielsen Norman Group (NN/g),https://www.nngroup.com,Figma (Learn Design),https://www.figma.com/learn/,Interaction Design Foundation,https://www.interaction-design.org
+Software Engineer,LeetCode (Coding Problems),https://leetcode.com,GeeksforGeeks (Data Structures),https://www.geeksforgeeks.org/data-structures/,freeCodeCamp (Algorithms),https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+HR Manager,SHRM (Society for HR Mgmt),https://www.shrm.org,Coursera (HR Courses),https://www.coursera.org/browse/business/human-resources,AIHR (Academy to Innovate HR),https://www.aihr.com/
+Graphic Designer,Adobe (Creative Cloud Tutorials),https://helpx.adobe.com/creative-cloud/tutorials.html,Dribbble (Inspiration),https://dribbble.com,Behance (Portfolios),https://www.behance.net
+Lawyer,Cornell LII (Legal Info Institute),https://www.law.cornell.edu,FindLaw (Legal Resources),https://www.findlaw.com,BarBri (Bar Prep),https://www.barbri.com
+Civil Engineer,ASCE (Civil Engineers Society),https://www.asce.org,Coursera (Civil Eng Courses),https://www.coursera.org/browse/physical-science-and-engineering/civil-engineering,AutoCAD (Tutorials),https://www.autodesk.com/tutorials

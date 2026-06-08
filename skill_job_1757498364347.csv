@@ -1,0 +1,69 @@
+role,skills
+Data Analyst,sql excel power bi python data visualization pandas
+Machine Learning Engineer,python scikit-learn tensorflow keras numpy pandas mlops
+Data Scientist,python sql machine learning statistics matplotlib seaborn pandas numpy
+Frontend Developer,html css javascript react git github dsa
+Backend Developer,node.js express mongodb sql docker rest api
+Full Stack Developer,html css javascript react node.js express mongodb git github dsa
+DevOps Engineer,aws azure docker kubernetes linux jenkins bash
+Cloud Engineer,aws google cloud azure terraform docker linux
+AI Engineer,deep learning tensorflow pytorch python computer vision nlp
+Product Manager,communication project management sql analytics leadership
+Cybersecurity Analyst,network security linux bash firewalls python incident response
+Business Analyst,excel power bi sql data analysis communication problem solving
+Data Engineer,sql nosql hadoop spark kafka python java scala etl data pipelines
+Marketing Specialist,market research communication creativity seo sem email marketing content creation social media analytics
+Digital Marketer,seo sem content management social media email marketing google analytics
+Financial Analyst,financial analysis budgeting forecasting financial reporting accounting excel spreadsheet modeling risk management
+Project Manager,communication leadership planning coordination risk management budget oversight problem solving jira microsoft project
+Healthcare Manager,communication leadership critical thinking problem solving budgeting data analysis health law policy
+Nurse Practitioner,clinical skills patient assessment pharmacology communication empathy teamwork critical thinking
+Marketing Executive,market research communication creativity seo content marketing social media analytics digital marketing
+Financial Manager,financial analysis budgeting forecasting excel risk management accounting team collaboration
+UI/UX Designer,ui design ux design figma sketch adobe xd wireframing prototyping user research
+Web Designer,html css javascript web design ui design graphic design adobe photoshop
+Software Engineer,java python c++ c# software development algorithms data structures database management
+IT Manager,it infrastructure it support management it strategy it governance cloud computing network security
+Network Administrator,networking lan wan troubleshooting cisco juniper network protocols
+Systems Analyst,systems analysis business analysis requirements gathering process modeling data analysis sql
+Cybersecurity Engineer,network security ethical hacking penetration testing vulnerability assessment risk analysis
+Database Administrator,database design sql nosql database administration data modeling backup recovery
+HR Manager,recruitment employee relations performance management hr policies conflict resolution compliance
+Recruiter,recruiting sourcing interviewing candidate screening applicant tracking systems ats
+HR Coordinator,onboarding payroll administration hr software benefits administration data entry
+Compensation & Benefits Manager,compensation analysis benefits administration payroll hr analytics legal compliance
+Training & Development Specialist,instructional design training delivery needs assessment curriculum development e-learning
+Supply Chain Manager,logistics inventory management demand planning supply chain software sap oracle
+Logistics Analyst,data analysis logistics modeling transportation management supply chain optimization
+Procurement Specialist,procurement vendor management contract negotiation supplier relationship management cost analysis
+Inventory Manager,inventory control warehouse management supply chain logistics inventory software
+Customer Service Representative,communication empathy problem solving customer relationship management crm
+Support Specialist,troubleshooting technical support product knowledge customer service communication
+Customer Success Manager,customer retention client relationship management communication crm upsell cross sell
+Graphic Designer,adobe creative suite photoshop illustrator indesign graphic design branding typography
+Copywriter,writing editing seo content creation marketing research communication
+Animator,2d 3d animation motion graphics storytelling adobe after effects maya blender
+Content Creator,content strategy seo writing social media marketing video editing
+Art Director,creative direction team leadership visual design branding project management
+Civil Engineer,autocad civil 3d gis surveying construction management project management
+Mechanical Engineer,solidworks autocad fea cad hvac thermodynamics fluid dynamics
+Electrical Engineer,cad circuit design power systems pcb design electrical schematics
+Industrial Engineer,process improvement lean manufacturing six sigma statistical analysis project management
+Chemical Engineer,chemical processes process simulation p&id autocad thermodynamics fluid dynamics
+Manufacturing Engineer,cad cam lean manufacturing quality control six sigma project management
+Production Manager,production planning quality control lean manufacturing inventory management team leadership
+Quality Control Technician,quality assurance inspection quality control statistical process control spc
+Maintenance Technician,preventive maintenance troubleshooting repair hvac plumbing electrical systems
+Real Estate Agent,communication negotiation marketing property valuation crm lead generation
+Property Manager,lease agreements rent collection property management accounting landlord-tenant law
+Real Estate Appraiser,property valuation appraisal report writing market analysis real estate law
+Leasing Consultant,lead generation sales negotiation lease agreements customer service
+Lawyer,legal research legal writing litigation contract law public speaking
+Paralegal,legal research document drafting case management client interviews
+Legal Assistant,administrative support legal documentation scheduling client communication
+Corporate Counsel,corporate law contract negotiation mergers acquisitions compliance legal advice
+Legal Consultant,legal advice dispute resolution contract drafting legal research
+Medical & Health Services Manager,hospital administration healthcare management financial management human resources medical billing
+Health Information Manager,hipaa electronic health records ehr medical coding data analysis compliance
+Nursing Home Administrator,nursing home administration resident care regulatory compliance staff management budgeting
+Clinical Director,clinical operations patient care quality assurance staff management healthcare laws
